@@ -1,0 +1,24 @@
+{
+  "name": "learn-graphql-photo-share-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.js --target node --bundle-node-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kkznch/learn-graphql-photo-share-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkznch/learn-graphql-photo-share-front/issues"
+  },
+  "homepage": "https://github.com/kkznch/learn-graphql-photo-share-front#readme",
+  "dependencies": {
+    "graphql-request": "^1.8.2",
+    "parcel": "^1.12.4"
+  }
+}
